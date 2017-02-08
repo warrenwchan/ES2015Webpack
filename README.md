@@ -14,17 +14,17 @@ _Feb 7th, 2017_
 * creates block scoping.
 * cant have duplicates.
 
-##const
+##Const
 * can modify the content of the value (add and remove).
 * cannot reasign to new data type.
 * cannot concatnate strings.
 * cannot 
 
-## => Function
+##Function (=>)
 * this functions is allowed to inhereits the "OG this" from the above scopes.
 * Short way to write functions.
 
-## template strings
+## Template Strings
 * ` are your new quotations to build strings.
 
 _Feb 8th 2017_
